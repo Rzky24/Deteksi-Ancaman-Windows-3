@@ -173,13 +173,15 @@ lihat di folder security all time - event viewer id 4697 - ada dua point yang ha
 ServiceName Data Protection Service 
   ServiceFileName C:\Windows\Help\nessie.exe 
 
+<img width="1366" height="380" alt="image" src="https://github.com/user-attachments/assets/e0e789da-90b0-4373-800c-364d681f58f7" />
+
 
 jawaban : Data Protection Service
 
 Jawaban yang Benar
 Tugas terjadwal mana yang dibuat untuk mempertahankan malware Troy?
-
-AmazonSync
+di folder event viewer - security alltime - lihat di genaral task information - task name  
+jawaban : AmazonSync
 
 Jawaban yang Benar
 Bendera apa yang Anda dapatkan setelah menemukan dan menjalankan malware Troy?
