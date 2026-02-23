@@ -168,8 +168,13 @@ C:\Users\Administrator\Desktop\Practice\Task 4\
 
 Jawablah pertanyaan-pertanyaan di bawah ini.
 Layanan Windows mana yang dibuat untuk mempertahankan malware Nessie?
+lihat di folder security all time - event viewer id 4697 - ada dua point yang harus di perhatikan - 
 
-Data Protection Service
+ServiceName Data Protection Service 
+  ServiceFileName C:\Windows\Help\nessie.exe 
+
+
+jawaban : Data Protection Service
 
 Jawaban yang Benar
 Tugas terjadwal mana yang dibuat untuk mempertahankan malware Troy?
